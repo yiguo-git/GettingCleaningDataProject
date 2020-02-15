@@ -1,0 +1,138 @@
+The columns with the feature names are the average value for a particular subject with a particular activity. The last two columns are the subject (from 1 to 30), and activity (from 1 to 6)
+
+"tBodyAcc-mean()-X"
+    The average value for each subject and each activity
+"tBodyAcc-mean()-Y"    
+    The average value for each subject and each activity
+"tBodyAcc-mean()-Z"           
+    The average value for each subject and each activity
+"tBodyAcc-std()-X"           
+    The average value for each subject and each activity
+"tBodyAcc-std()-Y"            
+    The average value for each subject and each activity
+"tBodyAcc-std()-Z"           
+    The average value for each subject and each activity
+"tGravityAcc-mean()-X"        
+    The average value for each subject and each activity
+"tGravityAcc-mean()-Y"       
+    The average value for each subject and each activity
+"tGravityAcc-mean()-Z"        
+    The average value for each subject and each activity
+"tGravityAcc-std()-X"        
+    The average value for each subject and each activity
+"tGravityAcc-std()-Y"         
+    The average value for each subject and each activity
+"tGravityAcc-std()-Z"        
+    The average value for each subject and each activity
+"tBodyAccJerk-mean()-X"       
+    The average value for each subject and each activity
+"tBodyAccJerk-mean()-Y"      
+    The average value for each subject and each activity
+"tBodyAccJerk-mean()-Z"       
+    The average value for each subject and each activity
+"tBodyAccJerk-std()-X"       
+    The average value for each subject and each activity
+"tBodyAccJerk-std()-Y"        
+    The average value for each subject and each activity
+"tBodyAccJerk-std()-Z"       
+    The average value for each subject and each activity
+"tBodyGyro-mean()-X"          
+    The average value for each subject and each activity
+"tBodyGyro-mean()-Y"         
+    The average value for each subject and each activity
+"tBodyGyro-mean()-Z"          
+    The average value for each subject and each activity
+"tBodyGyro-std()-X"          
+    The average value for each subject and each activity
+"tBodyGyro-std()-Y"           
+    The average value for each subject and each activity
+"tBodyGyro-std()-Z"          
+    The average value for each subject and each activity
+"tBodyGyroJerk-mean()-X"      
+    The average value for each subject and each activity
+"tBodyGyroJerk-mean()-Y"     
+    The average value for each subject and each activity
+"tBodyGyroJerk-mean()-Z"      
+    The average value for each subject and each activity
+"tBodyGyroJerk-std()-X"      
+    The average value for each subject and each activity
+"tBodyGyroJerk-std()-Y"       
+    The average value for each subject and each activity
+"tBodyGyroJerk-std()-Z"      
+    The average value for each subject and each activity
+"tBodyAccMag-mean()"          
+    The average value for each subject and each activity
+"tBodyAccMag-std()"          
+    The average value for each subject and each activity
+"tGravityAccMag-mean()"       
+    The average value for each subject and each activity
+"tGravityAccMag-std()"       
+    The average value for each subject and each activity
+"tBodyAccJerkMag-mean()"      
+    The average value for each subject and each activity
+"tBodyAccJerkMag-std()"      
+    The average value for each subject and each activity
+"tBodyGyroMag-mean()"         
+    The average value for each subject and each activity
+"tBodyGyroMag-std()"         
+    The average value for each subject and each activity
+"tBodyGyroJerkMag-mean()"     
+    The average value for each subject and each activity
+"tBodyGyroJerkMag-std()"     
+    The average value for each subject and each activity
+"fBodyAcc-mean()-X"           
+    The average value for each subject and each activity
+"fBodyAcc-mean()-Y"          
+    The average value for each subject and each activity
+"fBodyAcc-mean()-Z"           
+    The average value for each subject and each activity
+"fBodyAcc-std()-X"           
+    The average value for each subject and each activity
+"fBodyAcc-std()-Y"            
+    The average value for each subject and each activity
+"fBodyAcc-std()-Z"           
+    The average value for each subject and each activity
+"fBodyAccJerk-mean()-X"       
+    The average value for each subject and each activity
+"fBodyAccJerk-mean()-Y"      
+    The average value for each subject and each activity
+"fBodyAccJerk-mean()-Z"       
+    The average value for each subject and each activity
+"fBodyAccJerk-std()-X"       
+    The average value for each subject and each activity
+"fBodyAccJerk-std()-Y"        
+    The average value for each subject and each activity
+"fBodyAccJerk-std()-Z"       
+    The average value for each subject and each activity
+"fBodyGyro-mean()-X"          
+    The average value for each subject and each activity
+"fBodyGyro-mean()-Y"         
+    The average value for each subject and each activity
+"fBodyGyro-mean()-Z"          
+    The average value for each subject and each activity
+"fBodyGyro-std()-X"          
+    The average value for each subject and each activity
+"fBodyGyro-std()-Y"           
+    The average value for each subject and each activity
+"fBodyGyro-std()-Z"          
+    The average value for each subject and each activity
+"fBodyAccMag-mean()"          
+    The average value for each subject and each activity
+"fBodyAccMag-std()"          
+    The average value for each subject and each activity
+"fBodyBodyAccJerkMag-mean()"  
+    The average value for each subject and each activity
+"fBodyBodyAccJerkMag-std()"  
+    The average value for each subject and each activity
+"fBodyBodyGyroMag-mean()"     
+    The average value for each subject and each activity
+"fBodyBodyGyroMag-std()"     
+    The average value for each subject and each activity
+"fBodyBodyGyroJerkMag-mean()" 
+    The average value for each subject and each activity
+"fBodyBodyGyroJerkMag-std()" 
+    The average value for each subject and each activity
+"subject"                     
+    subject from 1 to 30
+"activity"
+    activity from 1 to 6

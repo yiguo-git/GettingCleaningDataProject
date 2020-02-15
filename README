@@ -1,0 +1,8 @@
+The uploaded project contains the following 3 file:
+  1. This README
+  2. cook book
+  3. run_analysis.R
+  
+run_analysis.R contains the working script that reads all the necessary files and then performs the merging of the tables, extraction of the needed columns, and calculatiion of the average values for each variable grouped by each subject and each activity. The commnets in the script describe all the steps from the reading tables to the final reuslt.
+
+The columns details are logged in the cook book.
